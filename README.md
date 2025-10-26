@@ -1,7 +1,7 @@
 # Medical Telemonitoring System Using Arduino Uno
 
 **Authors:** Sara El Bari, Niamatellah Lahkim, Morgane Carbillet  
-**University:** University of Western Brittany  
+**University:** University of Western Brittany (UBO)
 **Academic Year:** 2023 – 2024  
 
 ---
