@@ -2,7 +2,7 @@
 .DS_Store
 __MACOSX/
 
-# Arduino build artifacts
+# Arduino build artifact
 *.hex
 *.elf
 *.bin
