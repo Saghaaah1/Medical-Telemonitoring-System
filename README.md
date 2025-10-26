@@ -17,7 +17,7 @@ It measures **temperature**, **heart rate**, and **oxygen saturation (SpO₂)**,
 
 Below is an image showing the **physical prototype (boîte)** of the telemonitoring system, including the Arduino Uno, Ethernet Shield, MAX30102 sensor, TFT display, and buzzer.
 
-![Physical Overview](Docs/overview.png)
+![Physical Overview](Docs/Overview.png)
 
 ---
 
