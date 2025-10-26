@@ -135,6 +135,6 @@ void loop() {
   TFTscreen.text(("Heart Rate: " + String(heartRate) + " bpm").c_str(), 2, 40);
   TFTscreen.text(("Temp: " + String(temperature) + " C").c_str(), 2, 60);
 
-  // --- Delay 15 seconds before next update ---
+  // --- Delay 15s before next update ---
   delay(15000);
 }
