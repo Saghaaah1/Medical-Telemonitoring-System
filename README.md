@@ -17,7 +17,7 @@ It measures **temperature**, **heart rate**, and **oxygen saturation (SpO₂)**,
 
 Below is an image showing the **physical prototype (boîte)** of the telemonitoring system, including the Arduino Uno, Ethernet Shield, MAX30102 sensor, TFT display, and buzzer.
 
-![Physical Overview](Docs/Overview.png)
+![Physical Overview](Documents/overview.png)
 
 ---
 
@@ -52,7 +52,7 @@ Below is an image showing the **physical prototype (boîte)** of the telemonitor
 
 The diagram below shows how each component is connected to the Arduino Uno and Ethernet Shield.
 
-![Wiring Diagram](Docs/wiring_diagram.png)
+![Wiring Diagram](Documents/Wiring_diagram.png)
 
 ---
 
@@ -88,7 +88,7 @@ The diagram below shows how each component is connected to the Arduino Uno and E
 ---
 
 ## License
-This project was developed in 2023–2024 at the **University of Western Brittany**  
+This project was developed in 2023–2024 at the **University of Western Brittany (UBO)**  
 by **Sara El Bari**, **Niamatellah Lahkim**, and **Morgane Carbillet**.  
 Licensed under the [MIT License](LICENSE).
 
